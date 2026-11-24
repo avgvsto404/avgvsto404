@@ -44,5 +44,5 @@ Languages:
 
 Links
 - Email: guilhermelonghini@gmail.com
-- GitHub: https://www.github.com/nikolayevsk404/
-- LinkedIn: https://www.linkedin.com/in/nikolayevsk404/
+- GitHub: https://www.github.com/avgvsto404/
+- LinkedIn: https://www.linkedin.com/in/avgvsto404/
